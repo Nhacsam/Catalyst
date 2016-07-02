@@ -1,0 +1,26 @@
+{
+  "name": "catalyst",
+  "version": "0.0.1",
+  "description": "A React Native Components Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nhacsam/Catalyst.git"
+  },
+  "keywords": [
+    "React",
+    "React",
+    "Native",
+    "Components",
+    "Material"
+  ],
+  "author": "Nicolas Djambazian <nicolas@djambazian.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nhacsam/Catalyst/issues"
+  },
+  "homepage": "https://github.com/Nhacsam/Catalyst#readme"
+}
