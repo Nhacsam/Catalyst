@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/Nhacsam/Catalyst/issues"
   },
-  "homepage": "https://github.com/Nhacsam/Catalyst#readme"
+  "homepage": "https://github.com/Nhacsam/Catalyst#readme",
+  "dependencies": {
+    "react": "^15.2.0",
+    "react-native": "^0.28.0",
+    "react-native-icons": "^0.7.1",
+    "react-native-material-design": "^0.3.6"
+  }
 }
